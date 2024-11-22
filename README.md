@@ -1,8 +1,26 @@
-- 👋 Hi, I’m Olivia
-- 👀 I’m a software developer interested in web development, database management, data analysis...
-- 🌱 I’m familiar with using Python, SQL, JavaScript, PHP, HTML, and frameworks such as Yii2, Flask, etc...
-- 💞️ I look forward to your invitation to open source project collaboration.
+# 👋 Welcome to My GitHub!
 
+Hi there! I'm **Olivia**, a passionate developer driven by curiosity and a love for technology. 
+
+### 💻 Skills
+- Languages: Python, JavaScript, PHP, HTML5, SQL
+- Frameworks: Django, Flask, FastAPI, YII2
+- Interests: Cloud Computing, Machine Learning, DevOps, Open Source
+
+### 🚀 Current Goals
+- 🌱 Learning Kubernetes & Docker
+- 🔭 Building a health-based recommender system
+
+<!---
+### 🌐 Find Me
+- [Portfolio](https://example.com)
+- [Blog](https://example.com/blog)
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+
+--->
+---
+
+Feel free to connect or explore my projects below!
 
 <!---
 OliviaA22/OliviaA22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
