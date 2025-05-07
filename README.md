@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-Hi there! I'm **Olivia**, aI am passionate, driven by curiosity and have great love for technology. 
+Hi there! I'm **Olivia**, I am passionate, driven by curiosity and have great love for technology. 
 
 ### 💻 Skills
 - Languages: Python, JavaScript, PHP, HTML5, SQL
