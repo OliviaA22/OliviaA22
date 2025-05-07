@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-Hi there! I'm **Olivia**, a passionate developer driven by curiosity and a love for technology. 
+Hi there! I'm **Olivia**, aI am passionate, driven by curiosity and have great love for technology. 
 
 ### 💻 Skills
 - Languages: Python, JavaScript, PHP, HTML5, SQL
@@ -8,6 +8,7 @@ Hi there! I'm **Olivia**, a passionate developer driven by curiosity and a love 
 - Interests: Cloud Computing, Machine Learning, DevOps, Open Source
 
 ### 🚀 Current Goals
+- 🌟 Data Science 
 - 🌱 Learning Kubernetes & Docker
 - 🔭 Building a health-based recommender system
 
